@@ -11,7 +11,8 @@ h1 {
 
 body {
 	background-image: url("restauraunt.jpg");
-	background-color: #FEF5CA;
+	background-color: #FEF5CA;{
+}
 
 }
 
@@ -43,7 +44,7 @@ section {
 	opacity: 100%;
 }
 
-#chicken {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -58,7 +59,7 @@ section {
 
 }
 
-#beef {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
